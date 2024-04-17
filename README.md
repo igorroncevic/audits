@@ -4,8 +4,10 @@
 
 I'm a Solidity developer and an aspiring smart contract security researcher.
 
-| <img src="./public/icons/x.ico" width="24" valign="middle">&nbsp;[ironside_web3](https://twitter.com/ironside_web3) | <img src="./public/icons/telegram.svg" width="24" valign="middle">&nbsp; [ironside_web3](https://t.me/ironside_web3) | <img src="./public/icons/discord.svg" width="24" valign="middle">&nbsp; [ironside7](https://discordapp.com/users/422520142929592351) |
-| :------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------- |
+[![Ironside Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-roncevic/)
+[![Ironside X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/ironside_web3)
+[![Ironside Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ironside_web3)
+[![Ironside Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/422520142929592351)
 
 ## Professional Experience
 
