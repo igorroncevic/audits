@@ -13,12 +13,13 @@ I'm a Solidity developer and an aspiring smart contract security researcher.
 
 - 3 years of professional experience in building software
 - 1 year of working as a blockchain developer, primarily building smart contracts on EVM chains
-- 1 month actively seeking and participating in audit contests
+- 2 months of actively seeking and participating in audit contests
 
 # Contests
 
 ## Practice Audits
 
-| Contest                                                                      | Platform  | Protocol Type     | Findings | Date       | My Report                                                   |
-| :--------------------------------------------------------------------------- | :-------- | :---------------- | :------- | ---------- | :---------------------------------------------------------- |
-| [KittyConnect](https://www.codehawks.com/contests/clu7ddcsa000fcc387vjv6rpt) | Codehawks | Cross-chain, NFTs | 4 Highs  | March 2023 | [Link](./reports/practice/202304_Codehawks_KittyConnect.md) |
+| Contest                                                                      | Platform  | Protocol Type     | Findings           | Date       | My Report                                                   |
+| :--------------------------------------------------------------------------- | :-------- | :---------------- | :----------------- | ---------- | :---------------------------------------------------------- |
+| [Baba Marta](https://www.codehawks.com/contests/cluseb1bf0001s4tjl2rzajup)   | Codehawks | NFTs              | 2 Highs, 2 Mediums | April 2024 | [Link](./reports/practice/202304_Codehawks_BabaMarta.md)    |
+| [KittyConnect](https://www.codehawks.com/contests/clu7ddcsa000fcc387vjv6rpt) | Codehawks | Cross-chain, NFTs | 4 Highs            | March 2024 | [Link](./reports/practice/202304_Codehawks_KittyConnect.md) |
