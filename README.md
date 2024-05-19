@@ -19,7 +19,8 @@ I'm a Solidity developer and an aspiring smart contract security researcher.
 
 ## Practice Audits
 
-| Contest                                                                      | Platform  | Protocol Type     | Findings           | Date       | My Report                                                   |
-| :--------------------------------------------------------------------------- | :-------- | :---------------- | :----------------- | ---------- | :---------------------------------------------------------- |
-| [Baba Marta](https://www.codehawks.com/contests/cluseb1bf0001s4tjl2rzajup)   | Codehawks | NFTs              | 2 Highs, 2 Mediums | April 2024 | [Link](./reports/practice/202304_Codehawks_BabaMarta.md)    |
-| [KittyConnect](https://www.codehawks.com/contests/clu7ddcsa000fcc387vjv6rpt) | Codehawks | Cross-chain, NFTs | 4 Highs            | March 2024 | [Link](./reports/practice/202304_Codehawks_KittyConnect.md) |
+| Contest                                                                         | Platform  | Protocol Type             | Findings           | Date       | My Report                                                     |
+| :------------------------------------------------------------------------------ | :-------- | :------------------------ | :----------------- | ---------- | :------------------------------------------------------------ |
+| [Mondrian Wallet](https://www.codehawks.com/contests/clvxt8idd00014zcc81dv6rde) | Codehawks | Account Abstraction, NFTs | 1 High, 2 Mediums  | May 2024   | [Link](./reports/practice/202305_Codehawks_MondrianWallet.md) |
+| [Baba Marta](https://www.codehawks.com/contests/cluseb1bf0001s4tjl2rzajup)      | Codehawks | NFTs                      | 2 Highs, 2 Mediums | April 2024 | [Link](./reports/practice/202304_Codehawks_BabaMarta.md)      |
+| [KittyConnect](https://www.codehawks.com/contests/clu7ddcsa000fcc387vjv6rpt)    | Codehawks | Cross-chain, NFTs         | 4 Highs            | March 2024 | [Link](./reports/practice/202304_Codehawks_KittyConnect.md)   |
