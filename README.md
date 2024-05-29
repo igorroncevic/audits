@@ -12,15 +12,21 @@ I'm a Solidity developer and an aspiring smart contract security researcher.
 ## Professional Experience
 
 - 3 years of professional experience in building software
-- 1 year of working as a blockchain developer, primarily building smart contracts on EVM chains
-- 2 months of actively seeking and participating in audit contests
+- 1.5 years of working as a blockchain developer, primarily building smart contracts on EVM chains
+- 4 months of actively seeking and participating in audit contests
 
 # Contests
+
+## Competitive Audits
+
+| Contest                                                     | Platform | Protocol Type | Findings         | Date       | My Report                                                       |
+| :---------------------------------------------------------- | :------- | :------------ | :--------------- | ---------- | :-------------------------------------------------------------- |
+| [Titles Protocol](https://audits.sherlock.xyz/contests/326) | Sherlock | NFTs          | 1 High, 1 Medium | April 2024 | [Link](./reports/competitive/202404_Sherlock_TitlesProtocol.md) |
 
 ## Practice Audits
 
 | Contest                                                                         | Platform  | Protocol Type             | Findings           | Date       | My Report                                                     |
 | :------------------------------------------------------------------------------ | :-------- | :------------------------ | :----------------- | ---------- | :------------------------------------------------------------ |
-| [Mondrian Wallet](https://www.codehawks.com/contests/clvxt8idd00014zcc81dv6rde) | Codehawks | Account Abstraction, NFTs | 1 High, 2 Mediums  | May 2024   | [Link](./reports/practice/202305_Codehawks_MondrianWallet.md) |
-| [Baba Marta](https://www.codehawks.com/contests/cluseb1bf0001s4tjl2rzajup)      | Codehawks | NFTs                      | 2 Highs, 2 Mediums | April 2024 | [Link](./reports/practice/202304_Codehawks_BabaMarta.md)      |
-| [KittyConnect](https://www.codehawks.com/contests/clu7ddcsa000fcc387vjv6rpt)    | Codehawks | Cross-chain, NFTs         | 4 Highs            | March 2024 | [Link](./reports/practice/202304_Codehawks_KittyConnect.md)   |
+| [Mondrian Wallet](https://www.codehawks.com/contests/clvxt8idd00014zcc81dv6rde) | Codehawks | Account Abstraction, NFTs | 1 High, 2 Mediums  | May 2024   | [Link](./reports/practice/202405_Codehawks_MondrianWallet.md) |
+| [Baba Marta](https://www.codehawks.com/contests/cluseb1bf0001s4tjl2rzajup)      | Codehawks | NFTs                      | 2 Highs, 2 Mediums | April 2024 | [Link](./reports/practice/202404_Codehawks_BabaMarta.md)      |
+| [KittyConnect](https://www.codehawks.com/contests/clu7ddcsa000fcc387vjv6rpt)    | Codehawks | Cross-chain, NFTs         | 4 Highs            | March 2024 | [Link](./reports/practice/202403_Codehawks_KittyConnect.md)   |
