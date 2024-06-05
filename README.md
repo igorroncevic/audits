@@ -27,6 +27,7 @@ I'm a Solidity developer and an aspiring smart contract security researcher.
 
 | Contest                                                                         | Platform  | Protocol Type             | Findings           | Date       | My Report                                                     |
 | :------------------------------------------------------------------------------ | :-------- | :------------------------ | :----------------- | ---------- | :------------------------------------------------------------ |
+| [Mafia Takedown](https://www.codehawks.com/contests/clwgiehgu00119zwn2xx92ay8)  | Codehawks | ERC20, Accounting         | 2 High, 2 Mediums  | May 2024   | [Link](./reports/practice/202405_Codehawks_MafiaTakedown.md)  |
 | [Mondrian Wallet](https://www.codehawks.com/contests/clvxt8idd00014zcc81dv6rde) | Codehawks | Account Abstraction, NFTs | 1 High, 2 Mediums  | May 2024   | [Link](./reports/practice/202405_Codehawks_MondrianWallet.md) |
 | [Baba Marta](https://www.codehawks.com/contests/cluseb1bf0001s4tjl2rzajup)      | Codehawks | NFTs                      | 2 Highs, 2 Mediums | April 2024 | [Link](./reports/practice/202404_Codehawks_BabaMarta.md)      |
 | [KittyConnect](https://www.codehawks.com/contests/clu7ddcsa000fcc387vjv6rpt)    | Codehawks | Cross-chain, NFTs         | 4 Highs            | March 2024 | [Link](./reports/practice/202403_Codehawks_KittyConnect.md)   |
