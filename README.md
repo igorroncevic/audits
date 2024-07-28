@@ -11,11 +11,18 @@ I'm a Solidity developer and an aspiring smart contract security researcher.
 
 ## Professional Experience
 
-- 3 years of professional experience in building software
+- 3.5 years of professional experience in building software
 - 1.5 years of working as a blockchain developer, primarily building smart contracts on EVM chains
 - 5 months of actively seeking and participating in audit contests
 
 # Contests
+
+## Private Audits
+
+| Contest                              | Client   | Protocol Type               | Findings | Date        | My Report |
+| :----------------------------------- | :------- | :-------------------------- | :------- | ----------- | :-------- |
+| [Visor](https://app.txsync.io/visor) | txFusion | AA / Modular Smart Accounts | Soon     | August 2024 | Soon      |
+| [Tsuko](https://app.txsync.io/tsuko) | txFusion | AA / Paymasters             | Soon     | July 2024   | Soon      |
 
 ## Competitive Audits
 
