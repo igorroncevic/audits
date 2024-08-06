@@ -54,7 +54,6 @@ function configureDependencies() external override onlyKernel returns (Keycode[]
     dependencies[0] = toKeycode("MONEY");
     moneyShelf = MoneyShelf(getModuleAddress(toKeycode("MONEY")));
 
-    // @audit-high same index used
     dependencies[0] = toKeycode("WEAPN");
     weaponShelf = WeaponShelf(getModuleAddress(toKeycode("WEAPN")));
 }
