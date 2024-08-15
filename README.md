@@ -1,13 +1,13 @@
-# Audit Portfolio / Ironside
+# Audit Portfolio
 
-## About Ironside
+## About Iron
 
 I'm a Solidity developer and an aspiring smart contract security researcher.
 
-[![Ironside Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-roncevic/)
-[![Ironside X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/ironside_web3)
-[![Ironside Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ironside_web3)
-[![Ironside Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/422520142929592351)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-roncevic/)
+[![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/irondevx)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/irondevx)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/422520142929592351)
 
 ## Professional Experience
 
@@ -26,9 +26,10 @@ I'm a Solidity developer and an aspiring smart contract security researcher.
 
 ## Competitive Audits
 
-| Contest                                                     | Platform | Protocol Type | Findings | Date       | My Report                                                       |
-| :---------------------------------------------------------- | :------- | :------------ | :------- | ---------- | :-------------------------------------------------------------- |
-| [Titles Protocol](https://audits.sherlock.xyz/contests/326) | Sherlock | NFTs          | 1H / 1M  | April 2024 | [Link](./reports/competitive/202404_Sherlock_TitlesProtocol.md) |
+| Contest                                                       | Platform  | Protocol Type | Findings | Date       | My Report                                                       |
+| :------------------------------------------------------------ | :-------- | :------------ | :------- | ---------- | :-------------------------------------------------------------- |
+| [Munchables](https://code4rena.com/audits/2024-07-munchables) | Code4rena | GameFi        | Soon     | July 2024  | [Link](./reports/competitive/202407_Code4rena_Munchables.md)    |
+| [Titles Protocol](https://audits.sherlock.xyz/contests/326)   | Sherlock  | NFTs          | 1H / 1M  | April 2024 | [Link](./reports/competitive/202404_Sherlock_TitlesProtocol.md) |
 
 ## Practice Audits
 
