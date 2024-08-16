@@ -28,7 +28,7 @@ I'm a Solidity developer and an aspiring smart contract security researcher.
 
 | Contest                                                       | Platform  | Protocol Type | Findings | Date       | My Report                                                       |
 | :------------------------------------------------------------ | :-------- | :------------ | :------- | ---------- | :-------------------------------------------------------------- |
-| [Munchables](https://code4rena.com/audits/2024-07-munchables) | Code4rena | GameFi        | Soon     | July 2024  | [Link](./reports/competitive/202407_Code4rena_Munchables.md)    |
+| [Munchables](https://code4rena.com/audits/2024-07-munchables) | Code4rena | GameFi        | 3H       | July 2024  | [Link](./reports/competitive/202407_Code4rena_Munchables.md)    |
 | [Titles Protocol](https://audits.sherlock.xyz/contests/326)   | Sherlock  | NFTs          | 1H / 1M  | April 2024 | [Link](./reports/competitive/202404_Sherlock_TitlesProtocol.md) |
 
 ## Practice Audits
