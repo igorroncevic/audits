@@ -1,6 +1,4 @@
-# Audit Portfolio
-
-## About Iron
+# Hi there, I'm Igor👋
 
 I'm a Solidity developer and an aspiring smart contract security researcher.
 
@@ -8,14 +6,6 @@ I'm a Solidity developer and an aspiring smart contract security researcher.
 [![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/irondevx)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/irondevx)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/422520142929592351)
-
-## Professional Experience
-
-- 3.5 years of professional experience in building software
-- 1.5 years of working as a blockchain developer, primarily building smart contracts on EVM chains
-- 5 months of actively seeking and participating in audit contests
-
-# Contests
 
 ## Private Audits
 
