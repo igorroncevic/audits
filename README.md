@@ -7,6 +7,17 @@ I'm a Solidity developer and an aspiring smart contract security researcher.
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/irondevx)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/422520142929592351)
 
+## Competitive Audits
+
+| Contest                                                            | Platform  | Protocol Type        | Findings | Date        | My Report                                                       |
+| :----------------------------------------------------------------- | :-------- | :------------------- | :------- | ----------- | :-------------------------------------------------------------- |
+| [Phi](https://code4rena.com/audits/2024-08-phi)                    | Code4rena | On-chain Credentials | Soon     | August 2024 | Soon                                                            |
+| [Fjord Token Staking](https://codehawks.cyfrin.io/c/2024-08-fjord) | Codehawks | Raffles              | 1M       | August 2024 | [Link](./reports/competitive/202408_Codehawks_Fjord.md)         |
+| [Winnables Raffles](https://audits.sherlock.xyz/contests/516)      | Sherlock  | Raffles              | 1H / 1M  | August 2024 | [Link](./reports/competitive/202408_Sherlock_Winnables.md)      |
+| [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle)               | Codehawks | Points Marketplace   | 6H / 2M  | August 2024 | [Link](./reports/competitive/202408_Codehawks_Tadle.md)         |
+| [Munchables](https://code4rena.com/audits/2024-07-munchables)      | Code4rena | GameFi               | 3H       | July 2024   | [Link](./reports/competitive/202407_Code4rena_Munchables.md)    |
+| [Titles Protocol](https://audits.sherlock.xyz/contests/326)        | Sherlock  | NFTs                 | 1H / 1M  | April 2024  | [Link](./reports/competitive/202404_Sherlock_TitlesProtocol.md) |
+
 ## Private Audits
 
 | Contest                              | Client   | Protocol Type               | Findings     | Date        | My Report                                          |
@@ -14,14 +25,7 @@ I'm a Solidity developer and an aspiring smart contract security researcher.
 | [Visor](https://app.txsync.io/visor) | txFusion | AA / Modular Smart Accounts | 1H / 1M / 4L | August 2024 | [Link](./reports/private/202408_txFusion_Visor.md) |
 | [Tsuko](https://app.txsync.io/tsuko) | txFusion | AA / Paymasters             | 1H / 2M / 4L | July 2024   | [Link](./reports/private/202407_txFusion_Tsuko.md) |
 
-## Competitive Audits
-
-| Contest                                                       | Platform  | Protocol Type | Findings | Date       | My Report                                                       |
-| :------------------------------------------------------------ | :-------- | :------------ | :------- | ---------- | :-------------------------------------------------------------- |
-| [Munchables](https://code4rena.com/audits/2024-07-munchables) | Code4rena | GameFi        | 3H       | July 2024  | [Link](./reports/competitive/202407_Code4rena_Munchables.md)    |
-| [Titles Protocol](https://audits.sherlock.xyz/contests/326)   | Sherlock  | NFTs          | 1H / 1M  | April 2024 | [Link](./reports/competitive/202404_Sherlock_TitlesProtocol.md) |
-
-## Practice Audits
+## Other Audits
 
 | Contest                                                                         | Platform     | Protocol Type     | Findings | Date       | My Report                                                     |
 | :------------------------------------------------------------------------------ | :----------- | :---------------- | :------- | ---------- | :------------------------------------------------------------ |
