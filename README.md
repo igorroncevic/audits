@@ -14,7 +14,7 @@ I'm a Solidity developer and an aspiring smart contract security researcher.
 | [Phi](https://code4rena.com/audits/2024-08-phi)                    | Code4rena | On-chain Credentials | Soon     | August 2024 | Soon                                                            |
 | [Fjord Token Staking](https://codehawks.cyfrin.io/c/2024-08-fjord) | Codehawks | Raffles              | 1M       | August 2024 | [Link](./reports/competitive/202408_Codehawks_Fjord.md)         |
 | [Winnables Raffles](https://audits.sherlock.xyz/contests/516)      | Sherlock  | Raffles              | 1H / 1M  | August 2024 | [Link](./reports/competitive/202408_Sherlock_Winnables.md)      |
-| [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle)               | Codehawks | Points Marketplace   | 6H / 2M  | August 2024 | [Link](./reports/competitive/202408_Codehawks_Tadle.md)         |
+| [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle)               | Codehawks | Points Marketplace   | 5H / 1L  | August 2024 | [Link](./reports/competitive/202408_Codehawks_Tadle.md)         |
 | [Munchables](https://code4rena.com/audits/2024-07-munchables)      | Code4rena | GameFi               | 3H       | July 2024   | [Link](./reports/competitive/202407_Code4rena_Munchables.md)    |
 | [Titles Protocol](https://audits.sherlock.xyz/contests/326)        | Sherlock  | NFTs                 | 1H / 1M  | April 2024  | [Link](./reports/competitive/202404_Sherlock_TitlesProtocol.md) |
 
